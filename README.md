@@ -4,6 +4,6 @@
 
 My personal projects are focused on things I care about: modern C#/.NET and where the
 language and ecosystem are heading, Cloud PaaS, DevOps and CI/CD and practical
-patterns for embracing standards and best practices across larger engineering orgs.
+solutions for embracing standards and best practices across larger engineering orgs.
 
 That's all for now. More to come in the not too distant future.
